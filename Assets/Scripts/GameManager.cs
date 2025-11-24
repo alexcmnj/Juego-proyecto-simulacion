@@ -1,28 +1,90 @@
 ﻿using UnityEngine;
+using TMPro;
 using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
-    public int playerScore = 0;
-    public int player2Score = 0;
+    public static GameManager instance;
 
-    public Text scoreText;
-    public Text timerText;
+    public GameObject GameOverPanel;
+    public TextMeshProUGUI gameover;
+    public Button restartButton;
+    public Button menuButton;
+    public pausa pausaScript;
 
-    public float matchTime = 120f;
+    private bool isGameOver = false;
 
+    void Awake()
+    {
+        if (instance == null)
+        {
+            instance = this;
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+    }
+
+    void Start()
+    {
+        if (GameOverPanel != null)
+        {
+            GameOverPanel.SetActive(false);
+        }
+
+        if (restartButton != null)
+        {
+            restartButton.onClick.AddListener(ReiniciarEscena);
+        }
+        
+        if (menuButton != null)
+        {
+            menuButton.onClick.AddListener(IrAlmenu);
+        }
+    }
     void Update()
     {
-        matchTime -= Time.deltaTime;
-        if (matchTime < 0)
+        if (isGameOver)
         {
-            matchTime = 0;
-            Debug.Log("Match Over!");
+            if(Input.GetKeyDown(KeyCode.R))
+            {
+                ReiniciarEscena();
+            }
+            if (Input.GetKeyDown(KeyCode.Escape) || Input.GetKeyDown(KeyCode.M)) 
+            {
+                IrAlmenu();
+            }
         }
-        int m = Mathf.FloorToInt(matchTime / 60);
-        int s = Mathf.FloorToInt(matchTime % 60);
+    }
 
-        timerText.text = $"{m:00}:{s:00}";
-        scoreText.text = playerScore + " - " + player2Score;
+    public void GameOver()
+    {
+
+        isGameOver = true;
+        if(pausaScript != null)
+        {
+            pausaScript.juegoPausado = false;
+        }
+        if (GameOverPanel != null)
+        {
+            GameOverPanel.SetActive(true);
+        }
+        if (gameover!= null)
+        {
+            gameover.text = "R - Reiniciar   ESC-Menú principal";
+        }
+    }
+
+    public void ReiniciarEscena()
+    {
+        Time.timeScale = 1f;
+        UnityEngine.SceneManagement.SceneManager.LoadScene(UnityEngine.SceneManagement.SceneManager.GetActiveScene().name);
+    }
+
+    public void IrAlmenu()
+    {
+        Time.timeScale = 1f;
+        UnityEngine.SceneManagement.SceneManager.LoadScene("Menu");
     }
 }

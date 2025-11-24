@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "D:\\UNI MILITAR\\7MO SEMESTRE\\simulacion\\Juego proyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UNI MILITAR\\7MO SEMESTRE\\simulacion\\Juego proyecto\\Assets\\Scripts\\Ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\uni militar\\7mo semestre\\simulacion\\juego proyecto\\assets\\scripts\\blancomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blancomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\uni militar\\7mo semestre\\simulacion\\juego proyecto\\assets\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UNI MILITAR\\7MO SEMESTRE\\simulacion\\Juego proyecto\\Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\uni militar\\7mo semestre\\simulacion\\juego proyecto\\assets\\scripts\\pausa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\uni militar\\7mo semestre\\simulacion\\juego proyecto\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\uni militar\\7mo semestre\\simulacion\\juego proyecto\\assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\uni militar\\7mo semestre\\simulacion\\juego proyecto\\assets\\scripts\\hit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\uni militar\\7mo semestre\\simulacion\\juego proyecto\\assets\\scripts\\mangomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mangomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\uni militar\\7mo semestre\\simulacion\\juego proyecto\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UNI MILITAR\\7MO SEMESTRE\\simulacion\\Juego proyecto\\Assets\\Scripts\\Ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\uni militar\\7mo semestre\\simulacion\\juego proyecto\\assets\\scripts\\ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +46,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "hit.cs",
+              "DocumentMoniker": "D:\\UNI MILITAR\\7MO SEMESTRE\\simulacion\\Juego proyecto\\Assets\\Scripts\\hit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\hit.cs",
+              "ToolTip": "D:\\UNI MILITAR\\7MO SEMESTRE\\simulacion\\Juego proyecto\\Assets\\Scripts\\hit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\hit.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:51:46.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "timer.cs",
+              "DocumentMoniker": "D:\\UNI MILITAR\\7MO SEMESTRE\\simulacion\\Juego proyecto\\Assets\\Scripts\\timer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\timer.cs",
+              "ToolTip": "D:\\UNI MILITAR\\7MO SEMESTRE\\simulacion\\Juego proyecto\\Assets\\Scripts\\timer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\timer.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAowEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T21:55:30.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Scoremanager.cs",
+              "DocumentMoniker": "D:\\UNI MILITAR\\7MO SEMESTRE\\simulacion\\Juego proyecto\\Assets\\Scripts\\Scoremanager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scoremanager.cs",
+              "ToolTip": "D:\\UNI MILITAR\\7MO SEMESTRE\\simulacion\\Juego proyecto\\Assets\\Scripts\\Scoremanager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scoremanager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:55:34.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pausa.cs",
+              "DocumentMoniker": "D:\\UNI MILITAR\\7MO SEMESTRE\\simulacion\\Juego proyecto\\Assets\\Scripts\\pausa.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\pausa.cs",
+              "ToolTip": "D:\\UNI MILITAR\\7MO SEMESTRE\\simulacion\\Juego proyecto\\Assets\\Scripts\\pausa.cs",
+              "RelativeToolTip": "Assets\\Scripts\\pausa.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T22:53:58.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\UNI MILITAR\\7MO SEMESTRE\\simulacion\\Juego proyecto\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\UNI MILITAR\\7MO SEMESTRE\\simulacion\\Juego proyecto\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAgwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T20:39:42.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "D:\\UNI MILITAR\\7MO SEMESTRE\\simulacion\\Juego proyecto\\Assets\\Scripts\\Ball.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ball.cs",
+              "ToolTip": "D:\\UNI MILITAR\\7MO SEMESTRE\\simulacion\\Juego proyecto\\Assets\\Scripts\\Ball.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ball.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T22:38:42.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AI.cs",
               "DocumentMoniker": "D:\\UNI MILITAR\\7MO SEMESTRE\\simulacion\\Juego proyecto\\Assets\\Scripts\\AI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AI.cs",
@@ -50,67 +140,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "blancomovimiento.cs",
               "DocumentMoniker": "D:\\UNI MILITAR\\7MO SEMESTRE\\simulacion\\Juego proyecto\\Assets\\Scripts\\blancomovimiento.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\blancomovimiento.cs",
               "ToolTip": "D:\\UNI MILITAR\\7MO SEMESTRE\\simulacion\\Juego proyecto\\Assets\\Scripts\\blancomovimiento.cs",
               "RelativeToolTip": "Assets\\Scripts\\blancomovimiento.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAswC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwD4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T07:07:45.047Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "mangomovimiento.cs",
               "DocumentMoniker": "D:\\UNI MILITAR\\7MO SEMESTRE\\simulacion\\Juego proyecto\\Assets\\Scripts\\mangomovimiento.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\mangomovimiento.cs",
               "ToolTip": "D:\\UNI MILITAR\\7MO SEMESTRE\\simulacion\\Juego proyecto\\Assets\\Scripts\\mangomovimiento.cs",
               "RelativeToolTip": "Assets\\Scripts\\mangomovimiento.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T04:11:20.662Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "D:\\UNI MILITAR\\7MO SEMESTRE\\simulacion\\Juego proyecto\\Assets\\Scripts\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "D:\\UNI MILITAR\\7MO SEMESTRE\\simulacion\\Juego proyecto\\Assets\\Scripts\\GameManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T07:41:05.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Ball.cs",
-              "DocumentMoniker": "D:\\UNI MILITAR\\7MO SEMESTRE\\simulacion\\Juego proyecto\\Assets\\Scripts\\Ball.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Ball.cs",
-              "ToolTip": "D:\\UNI MILITAR\\7MO SEMESTRE\\simulacion\\Juego proyecto\\Assets\\Scripts\\Ball.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Ball.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAowCMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T21:52:34.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Ball.cs",
-              "DocumentMoniker": "D:\\UNI MILITAR\\7MO SEMESTRE\\simulacion\\Juego proyecto\\Assets\\Scripts\\Ball.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Ball.cs",
-              "ToolTip": "D:\\UNI MILITAR\\7MO SEMESTRE\\simulacion\\Juego proyecto\\Assets\\Scripts\\Ball.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Ball.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T07:37:10.444Z"
             }
           ]
         }

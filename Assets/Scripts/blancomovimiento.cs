@@ -6,16 +6,20 @@ public class blancomovimiento : MonoBehaviour
 {
     public float Speed;
     public float JumpForce;
+    public Vector2 startPos;
 
     private Rigidbody2D Rigidbody2D;
     private Animator Animator;
     private float Horizontal;
     private bool Grounded;
 
+
     void Start()
     {
         Rigidbody2D = GetComponent<Rigidbody2D>();
         Animator = GetComponent<Animator>();
+        transform.position = startPos;
+        transform.localScale = new Vector3(-1.0f, 1.0f, 1.0f);
     }
 
     // Update is called once per frame

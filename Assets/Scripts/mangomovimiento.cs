@@ -6,6 +6,7 @@ public class mangomovimiento : MonoBehaviour
 {
     public float Speed;
     public float JumpForce;
+    public Vector2 startPos;
 
     private Rigidbody2D Rigidbody2D;
     private Animator Animator;
@@ -16,6 +17,8 @@ public class mangomovimiento : MonoBehaviour
     {
         Rigidbody2D = GetComponent<Rigidbody2D>();
         Animator = GetComponent<Animator>();
+        transform.position = startPos;
+        transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
     }
 
     // Update is called once per frame
